@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Travel](https://user-images.githubusercontent.com/65131757/147476493-97c12200-ca99-48e7-ae2a-ecc4652795b5.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
